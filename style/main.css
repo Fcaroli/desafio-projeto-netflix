@@ -1,0 +1,90 @@
+body{
+    background-color: #10222E;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header nav a{
+    text-decoration: none;
+    padding: 30px;
+    color:#FFF5D0
+}
+
+header .container-fluid{
+    background-color: #10222E;
+    display: flex;
+    align-items: center;
+    
+}
+
+header .container-fluid .logo{  
+    width: 180px;
+    align-items: left;
+
+}
+
+header .container-fluid nav{
+    margin-left: auto;
+}
+
+body .carousel-inner{
+    border-left: #FFF5D0 solid 30px;
+    border-right: #FFF5D0 solid 30px;
+    width: 1300px;
+    height: 1300px;
+    
+}
+
+body .carousel{
+    width: 1300px;
+    height: 1300px;
+    
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.beats{
+    background-color: #FFF5D0;
+}
+
+.bg-texto{
+    background-color: #10222E;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    opacity: 80%;
+}
+
+.beatmakers{
+    background-color: #F35139;
+}
+
+#beatmakers{
+    color:#FFF5D0;
+    justify-content: space-between;
+    
+}
+
+.sobre{
+    color: #FFF5D0;
+}
+
+.footer{
+    background-color: #FFF5D0;
+}
+
+.textofoot{
+    color: #10222E;
+}
+
+.nomefoot{
+    color: #F35139;
+}
